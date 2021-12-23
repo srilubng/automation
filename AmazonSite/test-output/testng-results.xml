@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-24T00:11:33 IST" name="Default suite" finished-at="2021-12-24T00:12:28 IST" duration-ms="54987">
+    <groups>
+    </groups>
+    <test started-at="2021-12-24T00:11:33 IST" name="Default test" finished-at="2021-12-24T00:12:28 IST" duration-ms="54987">
+      <class name="shopping.PurchaseProduct">
+        <test-method signature="getUrl()[pri:1, instance:shopping.PurchaseProduct@6da21078]" started-at="2021-12-24T00:11:33 IST" name="getUrl" finished-at="2021-12-24T00:11:33 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUrl -->
+        <test-method signature="setUpWebDriver()[pri:2, instance:shopping.PurchaseProduct@6da21078]" started-at="2021-12-24T00:11:33 IST" name="setUpWebDriver" finished-at="2021-12-24T00:11:36 IST" duration-ms="2356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpWebDriver -->
+        <test-method signature="LaunchLogin()[pri:3, instance:shopping.PurchaseProduct@6da21078]" started-at="2021-12-24T00:11:36 IST" name="LaunchLogin" finished-at="2021-12-24T00:11:39 IST" duration-ms="3594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchLogin -->
+        <test-method signature="searchForItem()[pri:4, instance:shopping.PurchaseProduct@6da21078]" started-at="2021-12-24T00:11:39 IST" name="searchForItem" finished-at="2021-12-24T00:12:17 IST" duration-ms="37999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForItem -->
+        <test-method signature="verifyCart()[pri:5, instance:shopping.PurchaseProduct@6da21078]" started-at="2021-12-24T00:12:17 IST" name="verifyCart" finished-at="2021-12-24T00:12:28 IST" duration-ms="10746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCart -->
+        <test-method signature="click()[pri:6, instance:shopping.PurchaseProduct@6da21078]" started-at="2021-12-24T00:12:28 IST" name="click" finished-at="2021-12-24T00:12:28 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+      </class> <!-- shopping.PurchaseProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
